@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SteamworksExtension.cpp.obj": [
+			"SteamworksExtensionUtils.cpp.obj",
+			"SteamworksFriendsSubsystem.cpp.obj",
+			"SteamworksInventorySubsystem.cpp.obj",
+			"SteamworksMatchmakingSubsystem.cpp.obj",
+			"SteamworksExtension.cpp.obj"
+		],
+		"Module.SteamworksExtension.gen.cpp.obj": [
+			"SteamworksAPI.gen.cpp.obj",
+			"SteamworksExtension.init.gen.cpp.obj",
+			"SteamworksExtensionUtils.gen.cpp.obj",
+			"SteamworksFriendsSubsystem.gen.cpp.obj",
+			"SteamworksInventorySubsystem.gen.cpp.obj",
+			"SteamworksMatchmakingSubsystem.gen.cpp.obj"
+		]
+	}
+}

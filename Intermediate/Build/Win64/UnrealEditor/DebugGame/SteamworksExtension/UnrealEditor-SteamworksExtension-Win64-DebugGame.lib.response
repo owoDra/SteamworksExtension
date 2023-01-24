@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SteamworksExtension-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\20_Creator\10_Projects\Unreal\BLACKENGINE\Intermediate\Build\Win64\BLACKENGINEEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\20_Creator\10_Projects\Unreal\BLACKENGINE\Plugins\SteamworksExtension\Intermediate\Build\Win64\UnrealEditor\DebugGame\SteamworksExtension\Module.SteamworksExtension.cpp.obj"
+"D:\20_Creator\10_Projects\Unreal\BLACKENGINE\Plugins\SteamworksExtension\Intermediate\Build\Win64\UnrealEditor\DebugGame\SteamworksExtension\SteamworksExtension.cpp.obj"
+"D:\20_Creator\10_Projects\Unreal\BLACKENGINE\Plugins\SteamworksExtension\Intermediate\Build\Win64\UnrealEditor\DebugGame\SteamworksExtension\Module.SteamworksExtension.gen.cpp.obj"
+"D:\20_Creator\10_Projects\Unreal\BLACKENGINE\Plugins\SteamworksExtension\Intermediate\Build\Win64\UnrealEditor\DebugGame\SteamworksExtension\Default.rc2.res"
+/OUT:"D:\20_Creator\10_Projects\Unreal\BLACKENGINE\Plugins\SteamworksExtension\Intermediate\Build\Win64\UnrealEditor\DebugGame\SteamworksExtension\UnrealEditor-SteamworksExtension-Win64-DebugGame.lib"
